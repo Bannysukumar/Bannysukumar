@@ -1,146 +1,298 @@
-<!-- HEADER SECTION -->
-<h1 align="center">
-  <span style="background: linear-gradient(90deg, #00C6FF, #0072FF); -webkit-background-clip: text; color: transparent; font-size: 2.8rem;">
-    Hi 👋, I'm Banny Sukumar
-  </span>
-</h1>
+<!-- SEO Meta Tags -->
+<!-- Blockchain Developer | Full Stack Developer | Solidity Expert | Web3 Developer | Smart Contract Developer | Layer-2 Solutions | MERN Stack | Telegram Bot Developer -->
 
-<h4 align="center">
-  🚀 A professional <strong>Blockchain & Full Stack Developer</strong> from India — I build end-to-end applications, modern web apps, Telegram bots, and Layer‑2 blockchain solutions.  
-  I love creating responsive, user-friendly interfaces and integrating smart contracts and automation to solve real problems.
-</h4>
+<div align="center">
+
+# 👋 Hi, I'm Banny Sukumar
+
+### 🚀 **Professional Blockchain & Full Stack Developer** | Building Next-Gen Web3 Solutions
+
+[![Profile Views](https://komarev.com/ghpvc/?username=Bannysukumar&label=Profile%20Views&color=0e75b6&style=for-the-badge)](https://github.com/Bannysukumar)
+[![GitHub Followers](https://img.shields.io/github/followers/Bannysukumar?label=Followers&style=for-the-badge&color=0e75b6)](https://github.com/Bannysukumar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/adepusukumar)
 
 ---
 
-<!-- INTRO SECTION -->
-<div align="center" style="display: flex; justify-content: center; align-items: flex-start; gap: 40px; flex-wrap: wrap;">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&color=00C6FF&background=00000000&center=true&vCenter=true&random=false&width=600&lines=Blockchain+Developer+%7C+Full+Stack+Engineer;Smart+Contract+Developer+%7C+Web3+Specialist;Layer-2+Solutions+%7C+Solidity+Expert;MERN+Stack+%7C+Telegram+Automation" alt="Typing SVG" />
+</p>
 
-  <!-- Image -->
-  <div>
-    <img alt="Coding" width="400" src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif">
-  </div>
-
-  <!-- Typing & Stats -->
-  <div>
-    <p align="center">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&color=00FFFF&background=B3FFE500&center=true&vCenter=true&random=false&width=560&lines=Professional+Blockchain+Developer;End-to-End+App+Developer;Telegram+Bots+%26+Automation;Layer-2+%26+Solidity" alt="Typing SVG" />
-    </p>
-
-   <p align="center">
-      <img src="https://komarev.com/ghpvc/?username=Bannysukumar&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" /> 
-    </p>
-
-  <div align="left" style="max-width: 420px; margin: 0 auto;">
-    <p>🧠 Professional blockchain developer — building Solidity smart contracts, Layer‑2 prototypes, and end-to-end applications (frontend → backend → contracts → deployment).</p>
-    <p>⚡ I develop full products: UI, APIs, smart contracts, off‑chain services, and deployment/monitoring pipelines.</p>
-    <p>💬 Ask me about <i>Web3, MERN, Layer‑2, Telegram automation</i></p>
-    <p>📫 Reach me: <i>bannysukumar@gmail.com</i></p>
-    <p>🔗 LinkedIn: <a href="https://www.linkedin.com/in/adepusukumar">adepusukumar</a></p>
-    <p>⚡ Fun fact: <i>I enjoy prototyping ideas fast and shipping minimal, maintainable products.</i></p>
-  </div>
 </div>
 
 ---
 
-## 🚀 Tech Stack  
+## 🎯 **About Me**
 
-### 🖼 Frontend  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white) 
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=ethereum&logoColor=white)  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)  
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) 
+I'm a **Blockchain & Full Stack Developer** specializing in **Web3 technologies**, **smart contract development**, and **end-to-end application architecture**. With expertise in **Solidity**, **Layer-2 scaling solutions**, and modern web development, I build scalable, secure, and user-friendly decentralized applications.
 
-### ⚙ Backend  
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) 
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) 
+### 💡 **What I Do**
+
+- 🔐 **Smart Contract Development**: Writing secure, gas-optimized Solidity contracts with comprehensive testing
+- 🌐 **Full Stack Web3 Applications**: Building complete dApps from frontend to blockchain integration
+- ⚡ **Layer-2 Solutions**: Prototyping and developing scaling solutions (Optimistic/ZK Rollups)
+- 🤖 **Telegram Bots & Automation**: Creating powerful automation tools and bot solutions
+- 🎨 **Modern Web Applications**: Developing responsive, performant UIs with React, Tailwind CSS, and more
+- 🔧 **Backend Services**: Building robust APIs, indexing services, and off-chain infrastructure
+
+### 🎓 **Expertise Areas**
+
+**Blockchain & Web3**: Solidity | Smart Contracts | Layer-2 Scaling | DeFi | NFT | Hardhat | Truffle | Web3.js | Ethers.js  
+**Full Stack Development**: MERN Stack | React | Node.js | Express.js | MongoDB | PostgreSQL  
+**Frontend Technologies**: React | Redux | JavaScript | TypeScript | Tailwind CSS | Bootstrap | HTML5 | CSS3  
+**Backend & DevOps**: Node.js | Express.js | RESTful APIs | Firebase | Git | GitHub Actions  
+**Tools & Frameworks**: Hardhat | Postman | NPM | Git | Telegram Bot API | Telegraf
+
+---
+
+## 🛠️ **Tech Stack**
+
+### **Frontend Development**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### **Blockchain & Web3**
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=ethereum&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
+![Hardhat](https://img.shields.io/badge/Hardhat-5965F6?style=for-the-badge&logo=hardhat&logoColor=white)
+![Truffle](https://img.shields.io/badge/Truffle-3FE0C5?style=for-the-badge&logo=truffle&logoColor=white)
+
+### **Backend Development**
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=rest&logoColor=white)
 
-### 🛢 Database  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) 
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
+### **Database & Storage**
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-### 🧰 Tools & Technologies  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white) 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
-![Hardhat](https://img.shields.io/badge/Hardhat-5965F6?style=for-the-badge&logo=hardhat&logoColor=white)
+### **Tools & DevOps**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 🧭 Experience  
+## 💼 **Professional Experience**
 
-### 💼 *Independent / Freelance Developer* (Present)  
-- ⚡ Building Telegram Bots and automation tools (Node.js + Telegraf)  
-- 🧠 Developing Layer‑2 prototypes and Solidity smart contracts  
-- 🧭 Creating end-to-end applications: frontend, backend, smart contracts, off‑chain services, and deployment pipelines  
-- 📡 Integrating off‑chain indexing, monitoring, and admin dashboards
+### **🚀 Independent Blockchain & Full Stack Developer** | *Present*
 
----
+**Key Responsibilities & Achievements:**
 
-## 🏅 Highlights & Projects
+- ✅ **Smart Contract Development**: Designed and deployed secure, gas-optimized Solidity smart contracts with comprehensive test coverage
+- ✅ **Layer-2 Prototyping**: Developed Layer-2 scaling solutions including optimistic rollup prototypes and ZK-rollup experiments
+- ✅ **Full Stack dApps**: Built end-to-end decentralized applications integrating frontend, backend, smart contracts, and deployment pipelines
+- ✅ **Telegram Automation**: Created advanced Telegram bots with role-based access control, persistent sessions, and API integrations
+- ✅ **Off-Chain Infrastructure**: Implemented indexing services, monitoring dashboards, and admin panels for blockchain applications
+- ✅ **Modern Web Applications**: Developed responsive, performant web applications using React, Node.js, and modern UI frameworks
 
-Below are projects I can showcase. Paste your actual repo URLs and demo links and I'll insert them; for now I've added clear placeholders you can replace.
-
-- Telegram Bot — automation & admin tools  
-  - Repo: https://github.com/Bannysukumar/telegram-bot-repo (replace with your repo)  
-  - Demo: https://user-images.githubusercontent.com/your-demo/telegram-bot-demo.gif (replace with your demo GIF or live demo link)  
-  - Short: Node.js + Telegraf — command handlers, role-based admin features, persistent sessions, and integrations (APIs/Databases).
-
-- Layer‑2 Prototype — optimistic/zk rollup experimentation  
-  - Repo: https://github.com/Bannysukumar/layer2-prototype (replace with your repo)  
-  - Demo / Docs: https://your-domain.com/layer2-demo (replace with live demo or docs)  
-  - Short: Solidity contracts + off‑chain sequencer & indexer — prototyping bridging, batching, and cost optimizations.
-
-- Web App / Dashboard — analytics & admin panels  
-  - Repo: https://github.com/Bannysukumar/web-dashboard (replace with your repo)  
-  - Live: https://your-website.com/dashboard (replace with live demo)  
-  - Short: React + Tailwind + Node.js — server‑side pagination, role-based dashboards, charts and analytics.
-
-- End-to-End dApp — token / marketplace / tooling  
-  - Repo: https://github.com/Bannysukumar/dapp-project (replace with your repo)  
-  - Live / Demo: https://your-dapp-demo.com (replace with live demo)  
-  - Short: Full dApp stack — smart contracts (Solidity), frontend (React), backend indexing (Node.js), and deployment scripts (Hardhat).
-
-How to provide real links so I can update these automatically:
-1. Paste each repo URL and optional live/demo URL (GIF or site). Example:
-   - https://github.com/Bannysukumar/telegram-bot
-   - https://github.com/Bannysukumar/layer2-rollup
-   - https://your-website.com/demo1.gif
-2. Or say "Fetch my top repos" and I can suggest which repos to include (you'll need to allow me to fetch them).
+**Technologies**: Solidity | Hardhat | React | Node.js | Express.js | MongoDB | Telegram Bot API | Layer-2 Solutions
 
 ---
 
-## 🤝 Let's Connect  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adepusukumar)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bannysukumar@gmail.com)  
+## 🏆 **Featured Projects**
+
+### **1. 🤖 Advanced Telegram Bot Platform**
+**Technologies**: Node.js | Telegraf | MongoDB | REST APIs
+
+- ✅ **Role-based Admin System**: Implemented comprehensive permission management and access control
+- ✅ **Persistent Session Management**: Built robust session handling with database integration
+- ✅ **API Integrations**: Seamlessly integrated multiple third-party APIs and services
+- ✅ **Command Handler Architecture**: Designed scalable command system with middleware support
+- ✅ **Real-time Notifications**: Implemented automated notification and alert systems
+
+**Repository**: [View on GitHub](https://github.com/Bannysukumar/bot) | **Demo**: [Live Demo](#)
 
 ---
 
-## 📊 GitHub Stats  
+### **2. ⚡ Blockchain & Solidity Smart Contracts**
+**Technologies**: Solidity | Hardhat | Node.js | JavaScript
 
-<div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 25px;">
+- ✅ **Smart Contract Development**: Developed secure, production-ready Solidity smart contracts
+- ✅ **Smart Contract Suite**: Built comprehensive contract libraries and reusable components
+- ✅ **Testing & Deployment**: Implemented comprehensive testing with Hardhat and deployment scripts
+- ✅ **Gas Optimization**: Applied gas optimization techniques and best practices
+- ✅ **Blockchain Integration**: Created contracts for various DeFi and Web3 use cases
 
-  <!-- Top Languages -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bannysukumar&layout=compact&theme=react&title_color=61dafb&text_color=ffffff&bg_color=0D1117&border_color=61dafb&border_radius=15&hide_border=false" 
-    alt="Top Languages"
-    width="50%"
-    style="min-width:300px; box-shadow: 0 0 25px rgba(97, 218, 251, 0.5); border-radius: 15px;"
-  />
+**Repository**: [View on GitHub](https://github.com/Bannysukumar/Blockchain-Solidity) | **Documentation**: [View Docs](https://github.com/Bannysukumar/Blockchain-Solidity)
 
-  <!-- Main GitHub Stats -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Bannysukumar&show_icons=true&theme=react&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=0D1117&border_color=61dafb&border_radius=15&hide_border=false" 
-    alt="Banny Sukumar's GitHub Stats"
-    width="70%"
-    style="min-width:300px; box-shadow: 0 0 25px rgba(97, 218, 251, 0.5); border-radius: 15px;"
-  />
+---
+
+### **3. 💱 Crypto Exchange Platform**
+**Technologies**: TypeScript | React | Node.js | Express.js
+
+- ✅ **Trading Interface**: Built comprehensive cryptocurrency trading platform
+- ✅ **Real-time Data**: Implemented real-time price tracking and market data
+- ✅ **Secure Transactions**: Developed secure transaction processing and wallet integration
+- ✅ **User Dashboard**: Created user-friendly dashboard with portfolio management
+- ✅ **API Integration**: Integrated multiple exchange APIs and blockchain networks
+
+**Repository**: [View on GitHub](https://github.com/Bannysukumar/Crypto-Exchange) | **Live Demo**: [View Live](#)
+
+---
+
+### **4. 🎨 Decentralized NFT Marketplace**
+**Technologies**: Solidity | React | Web3.js | JavaScript | IPFS
+
+- ✅ **NFT Minting & Trading**: Built complete NFT marketplace with minting, buying, and selling functionality
+- ✅ **Smart Contract Integration**: Deployed secure smart contracts for NFT transactions
+- ✅ **Frontend Interface**: Created modern React frontend with Web3 wallet integration
+- ✅ **IPFS Integration**: Implemented decentralized storage for NFT metadata and assets
+- ✅ **User Experience**: Designed intuitive marketplace interface with search and filtering
+
+**Repository**: [View on GitHub](https://github.com/Bannysukumar/Decentralized-Nft-Market-Place) | **Live Demo**: [View Live](#)
+
+---
+
+### **5. 🔐 Decentralized Staking Platform**
+**Technologies**: Solidity | HTML | CSS | JavaScript | Web3.js
+
+- ✅ **Staking Contracts**: Developed secure staking smart contracts with reward mechanisms
+- ✅ **User Interface**: Built responsive web interface for staking operations
+- ✅ **Reward System**: Implemented automated reward distribution and compounding
+- ✅ **Security Features**: Applied best practices for secure staking operations
+- ✅ **Multi-Token Support**: Designed flexible staking system for multiple tokens
+
+**Repository**: [View on GitHub](https://github.com/Bannysukumar/decentralized-staking) | **Live Demo**: [View Live](#)
+
+---
+
+### **6. 🔄 Decentralized Token Swap with Referral System**
+**Technologies**: HTML | CSS | JavaScript | Solidity | Web3.js
+
+- ✅ **Token Swapping**: Built decentralized token swap platform with DEX integration
+- ✅ **Referral Program**: Implemented referral system with reward distribution
+- ✅ **Smart Contracts**: Developed secure swap contracts with slippage protection
+- ✅ **User Interface**: Created intuitive swap interface with real-time price updates
+- ✅ **Multi-Chain Support**: Designed for cross-chain token swapping capabilities
+
+**Repository**: [View on GitHub](https://github.com/Bannysukumar/Decentralized-swaping-with-refferal) | **Live Demo**: [View Live](#)
+
+---
+
+### **7. 🌊 OpenSea Clone - NFT Marketplace**
+**Technologies**: JavaScript | React | Web3.js | Solidity
+
+- ✅ **Marketplace Features**: Replicated OpenSea-like functionality with NFT browsing and trading
+- ✅ **Collection Management**: Implemented NFT collection creation and management
+- ✅ **Auction System**: Built auction and bidding functionality for NFTs
+- ✅ **Profile System**: Created user profiles with NFT portfolio display
+- ✅ **Search & Filters**: Advanced search and filtering capabilities for NFTs
+
+**Repository**: [View on GitHub](https://github.com/Bannysukumar/open-sea-clone) | **Live Demo**: [View Live](#)
+
+---
+
+## 🔗 **Additional Projects**
+
+<div align="center">
+
+| Project | Description | Repository |
+|---------|-------------|------------|
+| 🏥 **Decentralized Insurance Platform** | Blockchain-based insurance platform with smart contracts | [View Repo](https://github.com/Bannysukumar/Decentralized-Insurance-Platform) |
+| 🎨 **Decentralized NFT** | NFT minting and management platform | [View Repo](https://github.com/Bannysukumar/Decentralized-Nft) |
+| 💰 **Decentralized SIP** | Systematic Investment Plan on blockchain | [View Repo](https://github.com/Bannysukumar/Decentralized-Sip) |
+| 🔐 **Decentralized Staking DApp** | Advanced staking decentralized application | [View Repo](https://github.com/Bannysukumar/Decentralized-staking-DApp) |
+| 💳 **Crypto Payment System** | Cryptocurrency payment processing platform | [View Repo](https://github.com/Bannysukumar/crypto-pay) |
+| 🔄 **Decentralized Exchange** | DEX platform for token trading | [View Repo](https://github.com/Bannysukumar/decentralized-exchange) |
+| 🎰 **Lucky Draw Platform** | Blockchain-based lottery and draw system | [View Repo](https://github.com/Bannysukumar/lucky-draw) |
+| 🏛️ **Intellectual Property Platform** | IP management on blockchain | [View Repo](https://github.com/Bannysukumar/Intellectual-Property) |
+| 🛒 **E-Commerce Website** | Full-stack e-commerce platform | [View Repo](https://github.com/Bannysukumar/e-commerce-website-build) |
+| 📊 **ERP Application** | Enterprise Resource Planning system | [View Repo](https://github.com/Bannysukumar/ERP-APP) |
+| 🌐 **MLM Web Platform** | Multi-Level Marketing web application | [View Repo](https://github.com/Bannysukumar/mlm-web) |
+| 🎓 **JNTUH Results Website** | University results portal | [View Repo](https://github.com/Bannysukumar/jntuh-results-website) |
 
 </div>
+
+**📂 [View All Repositories](https://github.com/Bannysukumar?tab=repositories)**
+
+---
+
+## 📈 **GitHub Statistics**
+
+<div align="center">
+
+### **📊 Contribution Graph**
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Bannysukumar&theme=react-dark&bg_color=0D1117&color=61DAFB&line=61DAFB&point=61DAFB&area=true&hide_border=true)
+
+### **💻 Coding Activity**
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bannysukumar&layout=compact&theme=react&title_color=61dafb&text_color=ffffff&bg_color=0D1117&border_color=61dafb&border_radius=15&hide_border=false&hide=html,css&langs_count=8)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bannysukumar&show_icons=true&theme=react&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=0D1117&border_color=61dafb&border_radius=15&hide_border=false&include_all_commits=true&count_private=true)
+
+![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=Bannysukumar&theme=react&border=61dafb&background=0D1117&ring=61dafb&fire=61dafb&currStreakLabel=61dafb)
+
+</div>
+
+---
+
+## 🎯 **What I'm Looking For**
+
+- 💼 **Full-Time Opportunities**: Blockchain Developer | Full Stack Developer | Smart Contract Engineer | Web3 Developer
+- 🤝 **Freelance Projects**: Smart contract development, dApp building, Layer-2 solutions, Telegram automation
+- 🌐 **Open Source Contributions**: Contributing to Web3 projects, blockchain protocols, and developer tools
+- 📚 **Learning & Growth**: Exploring new blockchain technologies, scaling solutions, and emerging Web3 trends
+
+---
+
+## 📞 **Let's Connect**
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adepusukumar)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bannysukumar@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bannysukumar)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](#)
+
+</div>
+
+---
+
+## 💬 **Let's Talk About**
+
+- 💡 **Web3 Development**: Smart contracts, dApps, DeFi, NFTs, Layer-2 solutions
+- 🚀 **Full Stack Development**: MERN stack, modern web applications, API design
+- 🤖 **Automation**: Telegram bots, workflow automation, integration solutions
+- 🔐 **Blockchain Security**: Smart contract auditing, best practices, security patterns
+- 📈 **Scaling Solutions**: Layer-2 protocols, gas optimization, performance tuning
+
+---
+
+## ⚡ **Quick Facts**
+
+- 🎯 **Currently**: Building scalable Web3 solutions and smart contract applications
+- 🌱 **Learning**: Advanced Layer-2 protocols, ZK-proofs, and blockchain scalability
+- 👯 **Collaborating**: Open to collaborate on blockchain projects and open-source initiatives
+- 💬 **Ask Me About**: Smart contract development, Web3 architecture, full-stack solutions
+- 📫 **Reach Out**: [bannysukumar@gmail.com](mailto:bannysukumar@gmail.com) | [LinkedIn](https://www.linkedin.com/in/adepusukumar)
+- ⚡ **Fun Fact**: I enjoy rapid prototyping and shipping production-ready solutions with clean, maintainable code
+
+---
+
+<div align="center">
+
+### **🌟 Thanks for visiting my profile!**
+
+**⭐ Star my repositories if you find them interesting!**
+
+![Visitor Count](https://profile-counter.glitch.me/Bannysukumar/count.svg)
+
+**Made with ❤️ by Banny Sukumar**
+
+</div>
+
+---
+
+<!-- Keywords for SEO: Blockchain Developer, Full Stack Developer, Solidity Developer, Smart Contract Developer, Web3 Developer, Ethereum Developer, Layer-2 Developer, MERN Stack Developer, React Developer, Node.js Developer, Telegram Bot Developer, dApp Developer, DeFi Developer, Blockchain Engineer, Software Engineer, India Developer -->
