@@ -225,21 +225,31 @@ I'm a **Blockchain & Full Stack Developer** specializing in **Web3 technologies*
 
 ### **📊 Contribution Graph**
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Bannysukumar&theme=react-dark&bg_color=0D1117&color=61DAFB&line=61DAFB&point=61DAFB&area=true&hide_border=true)](https://github.com/Bannysukumar)
+<a href="https://github.com/Bannysukumar">
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Bannysukumar&theme=react-dark" alt="GitHub Activity Graph" />
+</a>
 
 <br/>
 
 ### **💻 Coding Activity**
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bannysukumar&layout=compact&theme=react&title_color=61dafb&text_color=ffffff&bg_color=0D1117&border_color=61dafb&border_radius=15&hide_border=false&hide=html,css&langs_count=8)](https://github.com/Bannysukumar)
+<a href="https://github.com/Bannysukumar">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bannysukumar&layout=compact&theme=react&hide=html,css" alt="Top Languages" />
+</a>
 
 <br/>
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bannysukumar&show_icons=true&theme=react&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=0D1117&border_color=61dafb&border_radius=15&hide_border=false&include_all_commits=true&count_private=true)](https://github.com/Bannysukumar)
-
 <br/>
 
-[![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=Bannysukumar&theme=react&border=61dafb&background=0D1117&ring=61dafb&fire=61dafb&currStreakLabel=61dafb)](https://github.com/Bannysukumar)
+<a href="https://github.com/Bannysukumar">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Bannysukumar&show_icons=true&theme=react&include_all_commits=true" alt="GitHub Stats" />
+</a>
+
+<br/>
+<br/>
+
+<a href="https://github.com/Bannysukumar">
+  <img align="center" src="https://github-readme-streak-stats.demolab.com/?user=Bannysukumar&theme=react" alt="GitHub Streak" />
+</a>
 
 </div>
 
