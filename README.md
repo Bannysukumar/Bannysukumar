@@ -217,26 +217,35 @@ I'm a **Blockchain & Full Stack Developer** specializing in **Web3 technologies*
 
 ## 📈 **GitHub Statistics**
 
+## 📈 **GitHub Statistics & Activity**
+
+### **💻 GitHub Activity & Statistics**
+
 <div align="center">
 
-### **📊 Contribution Graph**
+**📊 View my GitHub profile statistics:**
 
-<a href="https://github.com/Bannysukumar">
-  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Bannysukumar&theme=react-dark" alt="GitHub Activity Graph" />
-</a>
+[![GitHub Profile](https://img.shields.io/badge/GitHub-Profile-blue?style=for-the-badge&logo=github)](https://github.com/Bannysukumar)
 
-<br/>
+**🔗 Quick Links:**
+- [View All Repositories](https://github.com/Bannysukumar?tab=repositories)
+- [View My Contributions](https://github.com/Bannysukumar?tab=overview)
+- [View My Activity](https://github.com/Bannysukumar)
 
-### **💻 Coding Activity**
+</div>
 
-#### **Top Languages**
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bannysukumar&layout=compact&theme=react&hide=html,css)
+**📈 Key Highlights:**
+- 🚀 **Active Developer**: Continuously building and contributing to open-source projects
+- 💻 **Multiple Projects**: Developed 30+ repositories across blockchain, web development, and automation
+- 🔧 **Tech Stack**: Proficient in JavaScript, TypeScript, Solidity, React, Node.js, and more
+- 📦 **Full Stack**: Experience in frontend, backend, smart contracts, and deployment
+- 🌐 **Web3 Focus**: Specialized in blockchain development, smart contracts, and decentralized applications
 
-#### **GitHub Stats**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bannysukumar&show_icons=true&theme=react&include_all_commits=true)
-
-#### **GitHub Streak**
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=Bannysukumar&theme=react)
+**🎯 Recent Activity:**
+- Building decentralized applications and smart contracts
+- Developing Telegram bots and automation tools
+- Creating full-stack web applications
+- Contributing to blockchain and Web3 projects
 
 ---
 
