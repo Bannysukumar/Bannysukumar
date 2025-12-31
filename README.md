@@ -229,11 +229,14 @@ I'm a **Blockchain & Full Stack Developer** specializing in **Web3 technologies*
 
 ### **💻 Coding Activity**
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bannysukumar&layout=compact&theme=react&hide=html,css" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bannysukumar&show_icons=true&theme=react&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-streak-stats.demolab.com/?user=Bannysukumar&theme=react" />
-</p>
+#### **Top Languages**
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bannysukumar&layout=compact&theme=react&hide=html,css)
+
+#### **GitHub Stats**
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bannysukumar&show_icons=true&theme=react&include_all_commits=true)
+
+#### **GitHub Streak**
+![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=Bannysukumar&theme=react)
 
 ---
 
