@@ -316,7 +316,7 @@ I'm a **Blockchain & Full Stack Developer** specializing in **Web3 technologies*
 
 ## Open source
 
-This repository is open source and maintained by [Banny Sukumar](https://github.com/Bannysukumar). Banny Sukumar is published so other developers can study the code and contribute.
+This repository is open source and maintained by [Banny Sukumar](https://github.com/Bannysukumar). These are the public open-source projects of Banny Sukumar, a blockchain and full-stack developer. Fork a repo and open a pull request.
 
 ## License
 
