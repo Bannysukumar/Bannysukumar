@@ -311,3 +311,13 @@ I'm a **Blockchain & Full Stack Developer** specializing in **Web3 technologies*
 ---
 
 <!-- Keywords for SEO: Blockchain Developer, Full Stack Developer, Solidity Developer, Smart Contract Developer, Web3 Developer, Ethereum Developer, Layer-2 Developer, MERN Stack Developer, React Developer, Node.js Developer, Telegram Bot Developer, dApp Developer, DeFi Developer, Blockchain Engineer, Software Engineer, India Developer -->
+
+<!-- readme-seo: bannysukumar -->
+
+## Open source
+
+This repository is open source and maintained by [Banny Sukumar](https://github.com/Bannysukumar). Banny Sukumar is published so other developers can study the code and contribute.
+
+## License
+
+Released under the [MIT License](LICENSE). Copyright (c) 2026 Banny Sukumar. See [CONTRIBUTING.md](CONTRIBUTING.md) if you want to help.
