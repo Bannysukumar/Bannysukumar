@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="170" viewBox="0 0 1200 170" role="img" aria-label="Binary MLM Platform: production-ready white-label Binary MLM platform with referral trees, package management, and admin dashboard. Stack: Next.js 14, TypeScript, Firebase. Live demo verified on Vercel.">
+  <defs>
+    <linearGradient id="cm-accent" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#58a6ff"/>
+      <stop offset="1" stop-color="#39c5cf"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="170" rx="10" fill="#0d1b3e" stroke="#1c325c"/>
+  <rect x="0" y="14" width="5" height="142" rx="2.5" fill="url(#cm-accent)"/>
+  <text x="34" y="48" font-size="26" font-weight="700" fill="#e6edf3"
+    font-family="Segoe UI, Helvetica, Arial, sans-serif">Binary MLM Platform</text>
+  <text x="1166" y="44" text-anchor="end" font-size="13" font-weight="600" fill="#39c5cf"
+    font-family="Consolas, Fira Code, monospace">LIVE DEMO VERIFIED</text>
+  <text x="34" y="82" font-size="16" fill="#a9c1dc"
+    font-family="Segoe UI, Helvetica, Arial, sans-serif">Production-ready, white-label Binary MLM platform: referral trees, package</text>
+  <text x="34" y="105" font-size="16" fill="#a9c1dc"
+    font-family="Segoe UI, Helvetica, Arial, sans-serif">management, automated calculations, and a full admin dashboard on Firebase.</text>
+  <g font-family="Consolas, Fira Code, monospace" font-size="14" fill="#58a6ff">
+    <rect x="34" y="124" width="106" height="28" rx="14" fill="#11264d" stroke="#1c325c"/>
+    <text x="87" y="143" text-anchor="middle">Next.js 14</text>
+    <rect x="150" y="124" width="106" height="28" rx="14" fill="#11264d" stroke="#1c325c"/>
+    <text x="203" y="143" text-anchor="middle">TypeScript</text>
+    <rect x="266" y="124" width="88" height="28" rx="14" fill="#11264d" stroke="#1c325c"/>
+    <text x="310" y="143" text-anchor="middle">Firebase</text>
+  </g>
+</svg>
