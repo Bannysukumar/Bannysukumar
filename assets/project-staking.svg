@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="170" viewBox="0 0 1200 170" role="img" aria-label="Decentralized Staking Platform: BEP-20 token staking on the BXC Chain with daily reward distribution and a multi-level referral system. Solidity contracts with a Web3.js and MetaMask frontend. Live demo verified on Vercel.">
+  <defs>
+    <linearGradient id="cs-accent" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#58a6ff"/>
+      <stop offset="1" stop-color="#39c5cf"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="170" rx="10" fill="#0d1b3e" stroke="#1c325c"/>
+  <rect x="0" y="14" width="5" height="142" rx="2.5" fill="url(#cs-accent)"/>
+  <text x="34" y="48" font-size="26" font-weight="700" fill="#e6edf3"
+    font-family="Segoe UI, Helvetica, Arial, sans-serif">Decentralized Staking Platform</text>
+  <text x="1166" y="44" text-anchor="end" font-size="13" font-weight="600" fill="#39c5cf"
+    font-family="Consolas, Fira Code, monospace">LIVE DEMO VERIFIED</text>
+  <text x="34" y="82" font-size="16" fill="#a9c1dc"
+    font-family="Segoe UI, Helvetica, Arial, sans-serif">BEP-20 token staking on the BXC Chain with daily rewards and a multi-level</text>
+  <text x="34" y="105" font-size="16" fill="#a9c1dc"
+    font-family="Segoe UI, Helvetica, Arial, sans-serif">referral system &#8212; Solidity contracts plus a Web3.js + MetaMask frontend.</text>
+  <g font-family="Consolas, Fira Code, monospace" font-size="14" fill="#58a6ff">
+    <rect x="34" y="124" width="90" height="28" rx="14" fill="#11264d" stroke="#1c325c"/>
+    <text x="79" y="143" text-anchor="middle">Solidity</text>
+    <rect x="134" y="124" width="100" height="28" rx="14" fill="#11264d" stroke="#1c325c"/>
+    <text x="184" y="143" text-anchor="middle">JavaScript</text>
+    <rect x="244" y="124" width="88" height="28" rx="14" fill="#11264d" stroke="#1c325c"/>
+    <text x="288" y="143" text-anchor="middle">Web3.js</text>
+    <rect x="342" y="124" width="98" height="28" rx="14" fill="#11264d" stroke="#1c325c"/>
+    <text x="391" y="143" text-anchor="middle">MetaMask</text>
+  </g>
+</svg>

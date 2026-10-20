@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="170" viewBox="0 0 1200 170" role="img" aria-label="JNTUK and JNTUH Results APIs: FastAPI services for student results, academic records and backlog details with PostgreSQL, Redis caching and RabbitMQ messaging. Stack: Python, FastAPI, PostgreSQL, Redis, RabbitMQ.">
+  <defs>
+    <linearGradient id="cj-accent" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#58a6ff"/>
+      <stop offset="1" stop-color="#39c5cf"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="170" rx="10" fill="#0d1b3e" stroke="#1c325c"/>
+  <rect x="0" y="14" width="5" height="142" rx="2.5" fill="url(#cj-accent)"/>
+  <text x="34" y="48" font-size="26" font-weight="700" fill="#e6edf3"
+    font-family="Segoe UI, Helvetica, Arial, sans-serif">JNTUK &amp; JNTUH Results APIs</text>
+  <text x="1166" y="44" text-anchor="end" font-size="13" font-weight="600" fill="#8da8c7"
+    font-family="Consolas, Fira Code, monospace">TWO SERVICES &#183; SOURCE ON GITHUB</text>
+  <text x="34" y="82" font-size="16" fill="#a9c1dc"
+    font-family="Segoe UI, Helvetica, Arial, sans-serif">FastAPI services exposing student results, academic records, and backlog details,</text>
+  <text x="34" y="105" font-size="16" fill="#a9c1dc"
+    font-family="Segoe UI, Helvetica, Arial, sans-serif">with PostgreSQL storage, Redis caching, and RabbitMQ messaging between workers.</text>
+  <g font-family="Consolas, Fira Code, monospace" font-size="14" fill="#58a6ff">
+    <rect x="34" y="124" width="78" height="28" rx="14" fill="#11264d" stroke="#1c325c"/>
+    <text x="73" y="143" text-anchor="middle">Python</text>
+    <rect x="122" y="124" width="90" height="28" rx="14" fill="#11264d" stroke="#1c325c"/>
+    <text x="167" y="143" text-anchor="middle">FastAPI</text>
+    <rect x="222" y="124" width="112" height="28" rx="14" fill="#11264d" stroke="#1c325c"/>
+    <text x="278" y="143" text-anchor="middle">PostgreSQL</text>
+    <rect x="344" y="124" width="72" height="28" rx="14" fill="#11264d" stroke="#1c325c"/>
+    <text x="380" y="143" text-anchor="middle">Redis</text>
+    <rect x="426" y="124" width="100" height="28" rx="14" fill="#11264d" stroke="#1c325c"/>
+    <text x="476" y="143" text-anchor="middle">RabbitMQ</text>
+  </g>
+</svg>

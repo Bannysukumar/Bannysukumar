@@ -1,49 +1,31 @@
 <div align="center">
 
-<img src="./assets/banner.svg" alt="Banny Sukumar — Blockchain and Full-Stack Developer" width="100%" />
+<a href="https://adepu-sukumar.vercel.app/">
+  <img src="assets/banner.svg" width="100%" alt="Banny Sukumar — Blockchain and Full-Stack Developer. Solidity, Web3, React, Next.js, Node.js, Firebase." />
+</a>
 
 # Banny Sukumar
 
 **Blockchain & Full-Stack Developer · Web3 · DApps · DeFi · Telegram Bots**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=58A6FF&center=true&vCenter=true&width=560&lines=Solidity+smart+contracts+%26+production+dApps;React+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+Firebase;FastAPI+%C2%B7+Node.js+%C2%B7+REST+APIs;Telegram+bots+%26+automation+systems" alt="Typing animation: Solidity smart contracts, React Next.js TypeScript Firebase, FastAPI Node.js REST APIs, Telegram bots" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=58A6FF&center=true&vCenter=true&width=560&lines=Solidity+smart+contracts+%26+production+dApps;React+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+Firebase;FastAPI+%C2%B7+Node.js+%C2%B7+REST+APIs;Telegram+bots+%26+automation+systems" alt="Typing animation: Solidity smart contracts and production dApps; React, Next.js, TypeScript, Firebase; FastAPI, Node.js, REST APIs; Telegram bots and automation systems" />
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Bannysukumar&label=Profile%20views&color=0e75b6&style=flat-square)](https://github.com/Bannysukumar)
-[![Followers](https://img.shields.io/github/followers/Bannysukumar?label=Followers&style=flat-square&color=0e75b6)](https://github.com/Bannysukumar)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&label=LinkedIn)](https://www.linkedin.com/in/adepusukumar)
-[![Portfolio](https://img.shields.io/badge/Portfolio-adepu--sukumar.vercel.app-181717?style=flat-square&logo=vercel&logoColor=white)](https://adepu-sukumar.vercel.app/)
+<p>
+  <a href="https://github.com/Bannysukumar"><img src="https://img.shields.io/badge/GitHub-Bannysukumar-0D1B3E?style=for-the-badge&labelColor=16213E&logo=github&logoColor=white" alt="GitHub profile Bannysukumar"></a>
+  <a href="https://www.linkedin.com/in/adepusukumar"><img src="https://img.shields.io/badge/LinkedIn-adepusukumar-0D1B3E?style=for-the-badge&labelColor=16213E&logo=linkedin&logoColor=white" alt="LinkedIn profile adepusukumar"></a>
+  <a href="https://adepu-sukumar.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-adepu--sukumar.vercel.app-0D1B3E?style=for-the-badge&labelColor=16213E&logo=vercel&logoColor=white" alt="Portfolio website adepu-sukumar.vercel.app"></a>
+  <a href="mailto:bannysukumar@gmail.com"><img src="https://img.shields.io/badge/Email-bannysukumar%40gmail.com-0D1B3E?style=for-the-badge&labelColor=16213E&logo=gmail&logoColor=white" alt="Email bannysukumar@gmail.com"></a>
+  <img src="https://komarev.com/ghpvc/?username=Bannysukumar&label=Profile%20views&color=16213E&style=for-the-badge" alt="Profile view counter for Bannysukumar">
+</p>
 
-I design and build **decentralized applications, smart contracts, and full-stack web platforms** —
-from Solidity contracts on EVM testnets to React/Next.js frontends, Firebase-backed services,
-FastAPI microservices, and Telegram automation. **98 public repositories**, all listed below.
-
-[About](#-about-me) · [Tech Stack](#-technology-stack) · [Featured Projects](#-featured-projects) · [All Repositories](#-complete-repository-directory) · [Stats](#-github-statistics) · [Contact](#-contact)
+[About](#about-me) · [Tech Stack](#technology-stack) · [Selected Work](#selected-work) · [All Repositories](#repository-directory) · [Stats](#commit-log) · [Contact](#connect)
 
 </div>
 
 ---
 
-## 🧭 Table of Contents
-
-- [About Me](#-about-me)
-- [Technology Stack](#-technology-stack)
-- [Featured Projects](#-featured-projects)
-- [Complete Repository Directory](#-complete-repository-directory)
-  - [Blockchain, Web3 & Smart Contracts](#blockchain-web3--smart-contracts-26)
-  - [MLM, Referral & Investment Platforms](#mlm-referral--investment-platforms-10)
-  - [Full-Stack & Web Applications](#full-stack--web-applications-32)
-  - [Backend, APIs & Services](#backend-apis--services-4)
-  - [Telegram Bots & Automation](#telegram-bots--automation-5)
-  - [Android & Mobile Apps](#android--mobile-apps-11)
-  - [Data Science, Developer Tools & Learning](#data-science-developer-tools--learning-5)
-  - [Forks](#forks-4)
-  - [Profile](#profile-1)
-- [GitHub Statistics](#-github-statistics)
-- [Contact](#-contact)
-
----
-
-## 👨‍💻 About Me
+<a id="about-me"></a>
+<img src="assets/title-about.svg" width="100%" alt="Section 01 — About" />
 
 I'm a software developer focused on **Web3 engineering** and **full-stack product development**.
 
@@ -59,12 +41,13 @@ I'm a software developer focused on **Web3 engineering** and **full-stack produc
   WhatsApp tooling, and telephony automation on Asterisk PBX.
 - **Mobile** — Android applications in Java and Expo/React Native apps.
 
-Along the way I've placed in hackathons (Flipkart Gridlock Hackathon 2.0) and shipped
-dozens of production sites for colleges, businesses, and events.
+Placed in hackathons (Flipkart Gridlock Hackathon 2.0, perfect leaderboard score) and
+shipped dozens of production sites for colleges, businesses, and events.
 
 ---
 
-## 🛠 Technology Stack
+<a id="technology-stack"></a>
+<img src="assets/title-stack.svg" width="100%" alt="Section 02 — Technology stack" />
 
 <p>
   <img src="https://skillicons.dev/icons?i=solidity,ts,js,python,java,csharp" alt="Solidity, TypeScript, JavaScript, Python, Java, C#" height="32" />
@@ -92,85 +75,65 @@ dozens of production sites for colleges, businesses, and events.
 
 ---
 
-## 🏆 Featured Projects
+<a id="selected-work"></a>
+<img src="assets/title-work.svg" width="100%" alt="Section 03 — Selected work" />
 
-### 1. Gridlock Hackathon 2.0 — Traffic Demand Prediction
+<a href="https://github.com/Bannysukumar/Gridlock-Hackathon-2.0">
+  <img src="assets/project-gridlock.svg" width="100%" alt="Gridlock Hackathon 2.0: traffic demand prediction with a perfect leaderboard score (R squared = 1.0) in Flipkart's Gridlock Hackathon 2.0. Python and Jupyter Notebook." />
+</a>
+<p align="center">
+  <a href="https://github.com/Bannysukumar/Gridlock-Hackathon-2.0"><img src="https://img.shields.io/badge/Repository-Gridlock--Hackathon-0D1B3E?style=for-the-badge&labelColor=16213E&logo=github&logoColor=white" alt="Gridlock Hackathon repository"></a>
+</p>
 
-Ranked with a **perfect leaderboard score (R² = 1.0)** in Flipkart's
-[Gridlock Hackathon 2.0](https://www.hackerearth.com/challenges/competitive/gridlock-hackathon-20/),
-predicting traffic demand from Bengaluru mobility data.
+<a href="https://github.com/Bannysukumar/Developer-Social-Network">
+  <img src="assets/project-devconnect.svg" width="100%" alt="DevConnect Social Network API: REST and WebSocket service with JWT auth, Argon2id hashing, end-to-end encrypted messaging, and Docker deployment. Java 17 and Spring Boot 3.5." />
+</a>
+<p align="center">
+  <a href="https://github.com/Bannysukumar/Developer-Social-Network"><img src="https://img.shields.io/badge/Repository-DevConnect-0D1B3E?style=for-the-badge&labelColor=16213E&logo=github&logoColor=white" alt="DevConnect repository"></a>
+</p>
 
-**Stack:** Python · Jupyter Notebook · Data Science
-**Links:** [Repository](https://github.com/Bannysukumar/Gridlock-Hackathon-2.0) · ⭐ 4 stars
+<a href="https://github.com/Bannysukumar/jntuk-backend">
+  <img src="assets/project-jntu-api.svg" width="100%" alt="JNTUK and JNTUH Results APIs: FastAPI services with PostgreSQL, Redis, and RabbitMQ for student results, academics, and backlogs." />
+</a>
+<p align="center">
+  <a href="https://github.com/Bannysukumar/jntuk-backend"><img src="https://img.shields.io/badge/Repository-jntuk--backend-0D1B3E?style=for-the-badge&labelColor=16213E&logo=github&logoColor=white" alt="jntuk-backend repository"></a>
+  <a href="https://github.com/Bannysukumar/jntuh-backend"><img src="https://img.shields.io/badge/Repository-jntuh--backend-0D1B3E?style=for-the-badge&labelColor=16213E&logo=github&logoColor=white" alt="jntuh-backend repository"></a>
+</p>
 
----
+<a href="https://github.com/Bannysukumar/binary-mlm-plan">
+  <img src="assets/project-binary-mlm.svg" width="100%" alt="Binary MLM Platform: white-label platform with referral trees, package management, and admin dashboard. Next.js 14, TypeScript, Firebase. Live demo verified." />
+</a>
+<p align="center">
+  <a href="https://github.com/Bannysukumar/binary-mlm-plan"><img src="https://img.shields.io/badge/Repository-binary--mlm--plan-0D1B3E?style=for-the-badge&labelColor=16213E&logo=github&logoColor=white" alt="Binary MLM Platform repository"></a>
+  <a href="https://binary-mlm-plan-frontend.vercel.app"><img src="https://img.shields.io/badge/Live_demo-binary--mlm--plan.vercel.app-0D1B3E?style=for-the-badge&labelColor=16213E&logo=vercel&logoColor=white" alt="Binary MLM live demo, verified"></a>
+</p>
 
-### 2. DevConnect — Social Network Backend
+<a href="https://github.com/Bannysukumar/decentralized-staking">
+  <img src="assets/project-staking.svg" width="100%" alt="Decentralized Staking Platform: BEP-20 staking with daily rewards and multi-level referrals on the BXC Chain. Solidity, Web3.js, MetaMask. Live demo verified." />
+</a>
+<p align="center">
+  <a href="https://github.com/Bannysukumar/decentralized-staking"><img src="https://img.shields.io/badge/Repository-decentralized--staking-0D1B3E?style=for-the-badge&labelColor=16213E&logo=github&logoColor=white" alt="Decentralized Staking repository"></a>
+  <a href="https://decentralized-staking-bay.vercel.app"><img src="https://img.shields.io/badge/Live_demo-decentralized--staking.vercel.app-0D1B3E?style=for-the-badge&labelColor=16213E&logo=vercel&logoColor=white" alt="Decentralized Staking live demo, verified"></a>
+</p>
 
-An independent REST + WebSocket API for a social network: signup/login with short-lived
-JWT access tokens and rotating refresh tokens, Argon2id password hashing, profiles,
-friend requests, blocks, and cursor-paginated end-to-end encrypted messaging.
-Ships with Docker and docker-compose deployment.
-
-**Stack:** Java 17 · Spring Boot 3.5 · WebSockets · JWT · Argon2id · Docker · Maven
-**Links:** [Repository](https://github.com/Bannysukumar/Developer-Social-Network)
-
----
-
-### 3. JNTU/JNTUK Results APIs
-
-FastAPI services exposing student results, academic records, and backlog details
-for JNTU Kakinada and JNTU Hyderabad, backed by PostgreSQL with Redis caching
-and RabbitMQ messaging.
-
-**Stack:** Python · FastAPI · PostgreSQL · Redis · RabbitMQ
-**Links:** [jntuk-backend](https://github.com/Bannysukumar/jntuk-backend) ·
-[jntuh-backend](https://github.com/Bannysukumar/jntuh-backend) ·
-**Live:** [jntuh-backend demo](https://manajntuhresults.vercel.app) (frontend portal, verified)
-
----
-
-### 4. Binary MLM Platform
-
-A production-ready, white-label Binary MLM platform with referral trees, package
-management, and an admin dashboard.
-
-**Stack:** Next.js 14 · TypeScript · Firebase
-**Links:** [Repository](https://github.com/Bannysukumar/binary-mlm-plan) ·
-**Live demo (verified):** [binary-mlm-plan-frontend.vercel.app](https://binary-mlm-plan-frontend.vercel.app)
-
----
-
-### 5. Decentralized Staking Platform
-
-A token staking dApp on the BXC Chain (BEP-20) with daily reward distribution and a
-multi-level referral system. Solidity contracts plus a responsive staking frontend
-with MetaMask integration.
-
-**Stack:** Solidity · JavaScript · Web3.js · MetaMask · HTML/CSS
-**Links:** [Repository](https://github.com/Bannysukumar/decentralized-staking) ·
-**Live demo (verified):** [decentralized-staking-bay.vercel.app](https://decentralized-staking-bay.vercel.app)
+<a href="https://github.com/Bannysukumar/MedMitra">
+  <img src="assets/project-medmitra.svg" width="100%" alt="MedMitra: healthcare app for medicines, prescriptions, and health records. React, Vite, Firebase. Live demo verified." />
+</a>
+<p align="center">
+  <a href="https://github.com/Bannysukumar/MedMitra"><img src="https://img.shields.io/badge/Repository-MedMitra-0D1B3E?style=for-the-badge&labelColor=16213E&logo=github&logoColor=white" alt="MedMitra repository"></a>
+  <a href="https://med-mitra-chi.vercel.app"><img src="https://img.shields.io/badge/Live_demo-med--mitra.vercel.app-0D1B3E?style=for-the-badge&labelColor=16213E&logo=vercel&logoColor=white" alt="MedMitra live demo, verified"></a>
+</p>
 
 ---
 
-### 6. MedMitra — Healthcare Records App
-
-A healthcare web application for managing medicines, prescriptions, and personal
-health records, with Firebase authentication and data storage.
-
-**Stack:** React · Vite · Firebase
-**Links:** [Repository](https://github.com/Bannysukumar/MedMitra) ·
-**Live demo (verified):** [med-mitra-chi.vercel.app](https://med-mitra-chi.vercel.app)
-
----
-
-## 📂 Complete Repository Directory
+<a id="repository-directory"></a>
+<img src="assets/title-directory.svg" width="100%" alt="Section 04 — Repository directory" />
 
 All **98 public repositories** on this profile, grouped by category.
 Each repository name links to its GitHub page; live demos were individually verified —
 repositories with no verified deployment show only their source link.
 
-### Blockchain, Web3 & Smart Contracts (26)
+## Blockchain, Web3 & Smart Contracts (26)
 
 <details>
 <summary>Show 26 repositories</summary>
@@ -183,7 +146,7 @@ repositories with no verified deployment show only their source link.
 | [Intellectual-Property](https://github.com/Bannysukumar/Intellectual-Property) | dApp for registering, verifying, and transferring IP ownership on Ethereum (Sepolia) | Solidity · JS | [Live](https://intellectual-property-one.vercel.app) |
 | [decentralized-staking-for-pranavam](https://github.com/Bannysukumar/decentralized-staking-for-pranavam) | PRANA token staking dApp, contracts on BSC Testnet with auto network detection | Solidity · JS | [Live](https://pranavamai.vercel.app) |
 | [lucky-draw](https://github.com/Bannysukumar/lucky-draw) | Decentralized lottery on BNB Chain using Chainlink VRF for randomness | Solidity · JS | — |
-| [crypto-pay](https://github.com/Bannysukumar/crypto-pay) | INR↔Crypto payment contracts (BXCToken, CryptoWallet) with web frontend | Solidity · JS | — |
+| [crypto-pay](https://github.com/Bannysukumar/crypto-pay) | INR-Crypto payment contracts (BXCToken, CryptoWallet) with web frontend | Solidity · JS | — |
 | [Crypto-Exchange](https://github.com/Bannysukumar/Crypto-Exchange) | CryptoPay React app for INR and crypto payments with Cashfree, Firebase, web3 | React · TS | [Live](https://crypto-exchange-ecru-chi.vercel.app) |
 | [Decentralized-Nft-Market-Place](https://github.com/Bannysukumar/Decentralized-Nft-Market-Place) | NFT marketplace: mint, list, and trade NFTs via MetaMask | Solidity · JS | — |
 | [Decentralized-Nft](https://github.com/Bannysukumar/Decentralized-Nft) | NFT minting dApp with ERC-721 contract and web frontend | Solidity · JS | — |
@@ -196,7 +159,7 @@ repositories with no verified deployment show only their source link.
 | [pin-staking-website](https://github.com/Bannysukumar/pin-staking-website) | Staking platform landing ("Coming Soon") site | JS | — |
 | [bluexcrypto.live--2-](https://github.com/Bannysukumar/bluexcrypto.live--2-) | BluEx DeFi staking platform with 8-level referral system | Solidity · JS | — |
 | [bxc.network](https://github.com/Bannysukumar/bxc.network) | BXC Network web client | JS | — |
-| [simple-storage-dapp](https://github.com/Bannysukumar/simple-storage-dapp) | Intro dApp: frontend ↔ Ethereum contract via Web3.js and MetaMask | JS | — |
+| [simple-storage-dapp](https://github.com/Bannysukumar/simple-storage-dapp) | Intro dApp: frontend to Ethereum contract via Web3.js and MetaMask | JS | — |
 | [solidity-home-works-and-assements](https://github.com/Bannysukumar/solidity-home-works-and-assements) | Solidity exercises incl. OpenZeppelin upgradeable contract sources | Solidity | — |
 | [IIT-KANPUR-ASSEMENT1](https://github.com/Bannysukumar/IIT-KANPUR-ASSEMENT1) | Pharma supply chain dApp (PharmaSupplyChain.sol + web UI) | Solidity · JS | — |
 | [pin-token](https://github.com/Bannysukumar/pin-token) | Documentation repository for the PIN token project | Markdown | — |
@@ -206,7 +169,7 @@ repositories with no verified deployment show only their source link.
 
 </details>
 
-### MLM, Referral & Investment Platforms (10)
+## MLM, Referral & Investment Platforms (10)
 
 <details>
 <summary>Show 10 repositories</summary>
@@ -226,7 +189,7 @@ repositories with no verified deployment show only their source link.
 
 </details>
 
-### Full-Stack & Web Applications (32)
+## Full-Stack & Web Applications (32)
 
 <details>
 <summary>Show 32 repositories</summary>
@@ -268,7 +231,7 @@ repositories with no verified deployment show only their source link.
 
 </details>
 
-### Backend, APIs & Services (4)
+## Backend, APIs & Services (4)
 
 <details>
 <summary>Show 4 repositories</summary>
@@ -282,7 +245,7 @@ repositories with no verified deployment show only their source link.
 
 </details>
 
-### Telegram Bots & Automation (5)
+## Telegram Bots & Automation (5)
 
 <details>
 <summary>Show 5 repositories</summary>
@@ -297,7 +260,7 @@ repositories with no verified deployment show only their source link.
 
 </details>
 
-### Android & Mobile Apps (11)
+## Android & Mobile Apps (11)
 
 <details>
 <summary>Show 11 repositories</summary>
@@ -318,7 +281,7 @@ repositories with no verified deployment show only their source link.
 
 </details>
 
-### Data Science, Developer Tools & Learning (5)
+## Data Science, Developer Tools & Learning (5)
 
 <details>
 <summary>Show 5 repositories</summary>
@@ -333,7 +296,7 @@ repositories with no verified deployment show only their source link.
 
 </details>
 
-### Forks (4)
+## Forks (4)
 
 <details>
 <summary>Show 4 repositories</summary>
@@ -347,7 +310,7 @@ repositories with no verified deployment show only their source link.
 
 </details>
 
-### Profile (1)
+## Profile Repository (1)
 
 <details>
 <summary>Show 1 repository</summary>
@@ -360,7 +323,8 @@ repositories with no verified deployment show only their source link.
 
 ---
 
-## 📈 GitHub Statistics
+<a id="commit-log"></a>
+<img src="assets/title-stats.svg" width="100%" alt="Section 05 — Commit log" />
 
 <div align="center">
 
@@ -380,14 +344,15 @@ repositories with no verified deployment show only their source link.
 
 ---
 
-## 📬 Contact
+<a id="connect"></a>
+<img src="assets/title-connect.svg" width="100%" alt="Section 06 — Connect" />
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Bannysukumar-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Bannysukumar)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-adepusukumar-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adepusukumar)
-[![Portfolio](https://img.shields.io/badge/Portfolio-adepu--sukumar.vercel.app-181717?style=flat-square&logo=vercel&logoColor=white)](https://adepu-sukumar.vercel.app/)
-[![Gmail](https://img.shields.io/badge/Gmail-bannysukumar%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:bannysukumar@gmail.com)
+<a href="https://github.com/Bannysukumar"><img src="https://img.shields.io/badge/GitHub-Bannysukumar-0D1B3E?style=for-the-badge&labelColor=16213E&logo=github&logoColor=white" alt="GitHub profile Bannysukumar"></a>
+<a href="https://www.linkedin.com/in/adepusukumar"><img src="https://img.shields.io/badge/LinkedIn-adepusukumar-0D1B3E?style=for-the-badge&labelColor=16213E&logo=linkedin&logoColor=white" alt="LinkedIn profile adepusukumar"></a>
+<a href="https://adepu-sukumar.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-adepu--sukumar.vercel.app-0D1B3E?style=for-the-badge&labelColor=16213E&logo=vercel&logoColor=white" alt="Portfolio website adepu-sukumar.vercel.app"></a>
+<a href="mailto:bannysukumar@gmail.com"><img src="https://img.shields.io/badge/Email-bannysukumar%40gmail.com-0D1B3E?style=for-the-badge&labelColor=16213E&logo=gmail&logoColor=white" alt="Email bannysukumar@gmail.com"></a>
 
 </div>
 
@@ -404,6 +369,8 @@ if you want to help.
 
 <div align="center">
 
-[Back to top ↑](#banny-sukumar)
+<a href="#banny-sukumar">
+  <img src="assets/footer-signature.svg" width="100%" alt="Banny Sukumar — building on-chain products, end to end. Back to top." />
+</a>
 
 </div>
