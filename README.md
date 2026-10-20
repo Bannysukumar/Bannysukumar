@@ -4,7 +4,7 @@
 
 # Banny Sukumar
 
-### Blockchain & Full-Stack Developer · Web3 · DApps · DeFi · Telegram Bots
+**Blockchain & Full-Stack Developer · Web3 · DApps · DeFi · Telegram Bots**
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=58A6FF&center=true&vCenter=true&width=560&lines=Solidity+smart+contracts+%26+production+dApps;React+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+Firebase;FastAPI+%C2%B7+Node.js+%C2%B7+REST+APIs;Telegram+bots+%26+automation+systems" alt="Typing animation: Solidity smart contracts, React Next.js TypeScript Firebase, FastAPI Node.js REST APIs, Telegram bots" />
 
@@ -64,7 +64,7 @@ dozens of production sites for colleges, businesses, and events.
 
 ---
 
-## 🛠️ Technology Stack
+## 🛠 Technology Stack
 
 <p>
   <img src="https://skillicons.dev/icons?i=solidity,ts,js,python,java,csharp" alt="Solidity, TypeScript, JavaScript, Python, Java, C#" height="32" />
