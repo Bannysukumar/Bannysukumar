@@ -15,7 +15,7 @@
   <a href="https://www.linkedin.com/in/adepusukumar"><img src="https://img.shields.io/badge/LinkedIn-adepusukumar-0D1B3E?style=for-the-badge&labelColor=16213E&logo=linkedin&logoColor=white" alt="LinkedIn profile adepusukumar"></a>
   <a href="https://adepu-sukumar.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-adepu--sukumar.vercel.app-0D1B3E?style=for-the-badge&labelColor=16213E&logo=vercel&logoColor=white" alt="Portfolio website adepu-sukumar.vercel.app"></a>
   <a href="mailto:bannysukumar@gmail.com"><img src="https://img.shields.io/badge/Email-bannysukumar%40gmail.com-0D1B3E?style=for-the-badge&labelColor=16213E&logo=gmail&logoColor=white" alt="Email bannysukumar@gmail.com"></a>
-  <img src="https://komarev.com/ghpvc/?username=Bannysukumar&label=Profile%20views&color=16213E&style=for-the-badge" alt="Profile view counter for Bannysukumar">
+  <a href="https://github.com/Bannysukumar?tab=followers"><img src="https://img.shields.io/github/followers/Bannysukumar?label=Followers&style=for-the-badge&color=0D1B3E&labelColor=16213E" alt="GitHub followers badge for Bannysukumar"></a>
 </p>
 
 [About](#about-me) · [Tech Stack](#technology-stack) · [Selected Work](#selected-work) · [All Repositories](#repository-directory) · [Stats](#commit-log) · [Contact](#connect)
